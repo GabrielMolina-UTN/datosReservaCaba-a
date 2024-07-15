@@ -1,0 +1,36 @@
+{
+  "cabanas": [
+    {
+      "id": 1,
+      "photo": "https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-amarilla01.jpg",
+      "name": "Estándar",      
+      "TipoTarifa": "tarifa x noche",
+      "precio": "$380 / noche",
+      "descripcion": "Disfrute de la serenidad de nuestra relajante suite. La suite Snake River tiene el encanto de la pesca con mosca antigua y la decoración junto al río cama Queen en el dormitorio principal..."
+    },
+    {
+      "id": 2,
+      "photo": "https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-azul01.jpg",
+      "name": "Mini House",     
+      "tipoTarifa": "tarifa x noche",
+      "precio": "$250 / noche",
+      "descripcion": "Refrésquese en nuestra Palisades Suite, llamada así por el extraordinario paisaje de la presa y el embalse locales de Palisades. La Palisades Suite le recuerda la serenidad del lago..."
+    },
+    {
+      "id": 3,
+      "photo": "https://rosasamarillas.com.ar/wp-content/uploads/2019/03/cabana-blanca01.jpg",
+      "name": "El Alto",  
+      "tipoTarifa": "tarifa x noche",
+      "precio": "$390 / noche",
+      "descripcion": "Duerma entre los pinos y esquíe entre los sueños en nuestra Grand Targhee Suite. Incluye un loft en el piso superior con cama tamaño Queen. No olvide nuestro desayuno con bebidas y café."
+    },
+    {
+      "id": 4,
+      "photo": "https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-rosa01.jpg",
+      "name": "La Piedra",
+      "tipoTarifa": "tarifa x noche",
+      "precio": "$200 / noche",
+      "descripcion": "Refúgiese de su arduo día en nuestra Suite Esmeralda. La Suite Esmeralda encarna el Viejo Oeste y la vida salvaje.."
+    }
+  ]
+}
