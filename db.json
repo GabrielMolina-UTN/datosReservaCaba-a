@@ -4,7 +4,7 @@
       "id": 1,
       "photo": "https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-amarilla01.jpg",
       "name": "Estándar",      
-      "TipoTarifa": "tarifa x noche",
+      "tipoTarifa": "tarifa x noche",
       "precio": "$380 / noche",
       "descripcion": "Disfrute de la serenidad de nuestra relajante suite. La suite Snake River tiene el encanto de la pesca con mosca antigua y la decoración junto al río cama Queen en el dormitorio principal..."
     },
