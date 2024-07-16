@@ -4,7 +4,7 @@
       "id": 1,
       "photo": "https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-amarilla01.jpg",
       "name": "Estándar",      
-      "tipoTarifa": "tarifa x noche",
+      "telefono": "LLÁMENOS - 301-248-3866",
       "precioTarifaEstandar": "$380 / noche",
       "precioTarifaTemporadaAlta": "$560 / noche",
       "descripcion": "Disfrute de la serenidad de nuestra relajante suite. La suite Snake River tiene el encanto de la pesca con mosca antigua y la decoración junto al río cama Queen en el dormitorio principal..."
@@ -13,7 +13,7 @@
       "id": 2,
       "photo": "https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-azul01.jpg",
       "name": "Mini House",     
-      "tipoTarifa": "tarifa x noche",
+      "telefono": "LLÁMENOS - 301-248-3866",
       "precioTarifaEstandar": "$250 / noche",
       "precioTarifaTemporadaAlta": "$350 / noche",
       "descripcion": "Refrésquese en nuestra Palisades Suite, llamada así por el extraordinario paisaje de la presa y el embalse locales de Palisades. La Palisades Suite le recuerda la serenidad del lago..."
@@ -22,7 +22,7 @@
       "id": 3,
       "photo": "https://rosasamarillas.com.ar/wp-content/uploads/2019/03/cabana-blanca01.jpg",
       "name": "El Alto",  
-      "tipoTarifa": "tarifa x noche",
+      "telefono": "LLÁMENOS - 301-248-3866",
       "precioTarifaEstandar": "$390 / noche",
       "precioTarifaTemporadaAlta": "$500 / noche",
       "descripcion": "Duerma entre los pinos y esquíe entre los sueños en nuestra Grand Targhee Suite. Incluye un loft en el piso superior con cama tamaño Queen. No olvide nuestro desayuno con bebidas y café."
@@ -31,7 +31,7 @@
       "id": 4,
       "photo": "https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-rosa01.jpg",
       "name": "La Piedra",
-      "tipoTarifa": "tarifa x noche",
+      "telefono": "LLÁMENOS - 301-248-3866",
       "precioTarifaEstandar": "$200 / noche",
       "precioTarifaTemporadaAlta": "$325 / noche",
       
